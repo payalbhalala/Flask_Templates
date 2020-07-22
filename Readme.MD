@@ -7,4 +7,7 @@ This project contains information about flask and templates.
 # Postman Screenshot
 ![pycharm postman request](Screenshots/postman.png)
 
+# Flask and Bootstrap screenshot
+![pycharm table format bootstrap](Screenshots/Flask_bootstrap.png)
+
 
